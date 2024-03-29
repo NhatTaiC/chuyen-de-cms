@@ -1,6 +1,5 @@
 <<<<<<< HEAD
-Line Added From Local
-=======
-Line Added From Remote
->>>>>>> origin/Pull-Conflict
 Added 1234
+=======
+Added 1235
+>>>>>>> origin/Pull-Conflict
