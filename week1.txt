@@ -1,2 +1,12 @@
 Day la file week1.txt
+<<<<<<< HEAD
 thuoc branch: week1 asdasdasd 12315345
+=======
+<<<<<<< HEAD
+thuoc branch: week1 
+=======
+thuoc branch: week1 va main
+>>>>>>> main
+Update
+
+>>>>>>> parent of ad638a6 (Merge branch 'main' into week1)
