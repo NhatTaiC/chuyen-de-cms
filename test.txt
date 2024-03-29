@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Line Added From Local
+=======
+Line Added From Remote
+>>>>>>> origin/Pull-Conflict
