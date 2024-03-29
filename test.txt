@@ -3,4 +3,4 @@ Line Added From Local
 =======
 Line Added From Remote
 >>>>>>> origin/Pull-Conflict
-Added 123
+Added 1234
