@@ -1,8 +1,2 @@
 Day la file week1.txt
-<<<<<<< HEAD
-thuoc branch: week1 
-=======
-thuoc branch: week1 va main
->>>>>>> main
-Update
-
+thuoc branch: week1
